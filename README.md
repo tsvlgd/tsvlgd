@@ -14,8 +14,8 @@
   <summary><b>🔄 GitHub Timeline</b></summary><br>
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#1](undefined) in [Savvythelegend/game-of-life](https://github.com/Savvythelegend/game-of-life)
-2. 💪 Opened PR [#1](undefined) in [Savvythelegend/game-of-life](https://github.com/Savvythelegend/game-of-life)
+1. ❌ Merged PR [#1](undefined) in [tsvlgd/game-of-life](https://github.com/tsvlgd/game-of-life)
+2. 💪 Opened PR [#1](undefined) in [tsvlgd/game-of-life](https://github.com/tsvlgd/game-of-life)
 3. ❌ Merged PR [#6](undefined) in [Savvythelegend/MLE](https://github.com/Savvythelegend/MLE)
 4. 💪 Opened PR [#6](undefined) in [Savvythelegend/MLE](https://github.com/Savvythelegend/MLE)
 5. ❌ Merged PR [#1](undefined) in [Savvythelegend/medical-data-extraction](https://github.com/Savvythelegend/medical-data-extraction)
