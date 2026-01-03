@@ -27,34 +27,34 @@
   <summary><b>{;}⌨️ Developer Stats</b></summary><br>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.67%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.68%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 191.9 kB Used in GitHub's Storage 
+> 📦 194.4 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2026
+> 🏆 6 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 41 Public Repositories 
+> 📜 42 Public Repositories 
  > 
 > 🔑 11 Private Repositories 
  > 
 **I Mostly Code in Python** 
 
 ```text
-Python                   22 repos            █████████████░░░░░░░░░░░░   53.66 % 
-JavaScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-Jupyter Notebook         5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Python                   22 repos            █████████████░░░░░░░░░░░░   52.38 % 
+Jupyter Notebook         6 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+JavaScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 ```
 
 
 
 
- Last Updated on 02/01/2026 18:59:23 UTC
+ Last Updated on 03/01/2026 18:57:40 UTC
 <!--END_SECTION:waka-->
 
 </details>
