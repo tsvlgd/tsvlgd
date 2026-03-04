@@ -101,36 +101,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 <p align="center">
   <img src="https://raw.githubusercontent.com/Savvythelegend/Savvythelegend/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
 </p>
-<h3 align="center">Certification Badges 🪶</h3>
 
-<div align="center">
-
-  <!-- OpenAPI Fundamentals (Credly) -->
-  <a href="https://www.credly.com/badges/724d6ecc-9d95-48eb-bed5-2c91bb8a9f12/public_url">
-    <img src="https://github.com/user-attachments/assets/58afc75e-0893-44e2-a25a-27f1c12259a8" width="105px" height="105px" />
-  </a>
-
-  <!-- Layer5 Meshery Design Pioneer -->
-  <a href="https://cloud.layer5.io/user/ed3ff164-571f-4b6c-a69a-f71630ee77bc?tab=badges&badge=first-design">
-    <img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" width="105px" height="105px" />
-  </a>
-
-  <!-- Postman API Badge -->
-  <a href="https://badgr.com/public/assertions/vHKkOJaqTeyFwwVbNrUx6g?identity__email=mehfooja764@gmail.com">
-    <img src="https://badgr.com/public/assertions/vHKkOJaqTeyFwwVbNrUx6g/image" width="105px" height="105px" />
-  </a>
-
-  <!-- GenAI Badge -->
-  <a href="https://badgr.com/public/assertions/yImYkrwDTMWE8YUw4RXjIA?identity__email=mehfooja764@gmail.com">
-    <img src="https://badgr.com/public/assertions/yImYkrwDTMWE8YUw4RXjIA/image" width="105px" height="105px" />
-  </a>
-  &nbsp;&nbsp;
-  <!-- Google Cloud Badge -->
-  <a href="https://www.cloudskillsboost.google/public_profiles/8e946210-239d-427a-a934-fe2a4720852c/badges/7946248">
-    <img src="https://github.com/user-attachments/assets/95a5f698-71ee-4db0-9e26-97eeadcb0b7c" width="105px" height="105px" />
-  </a>
-
-<div align="center">
 <br>
 
 ### ✨ Hacktoberfest 2025 Badges  
