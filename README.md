@@ -5,7 +5,7 @@
   <br>
 <summary><b>⚙️ GitHub Analytics</b></summary>
 <a href="https://github.com/tsvlgd">
-  <img style="height: 260px; width: 58%;" src="https://raw.githubusercontent.com/tsvlgd/tsvlgd/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Savvylegend GitHub Profile Details" />
+  <img style="height: 260px; width: 58%;" src="https://raw.githubusercontent.com/tsvlgd/tsvlgd/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="GitHub Profile Details" />
   <img style="height: 210px; width: 38%;" src="https://raw.githubusercontent.com/tsvlgd/tsvlgd/main/profile-summary-card-output/github_dark/3-stats.svg" alt="tsvlgd GitHub Stats" />
 </a>
 </details> 
