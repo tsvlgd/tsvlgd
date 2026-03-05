@@ -4,9 +4,9 @@
 <details>
   <br>
 <summary><b>⚙️ GitHub Analytics</b></summary>
-<a href="https://github.com/Savvythelegend">
-  <img style="height: 260px; width: 58%;" src="https://raw.githubusercontent.com/Savvythelegend/Savvythelegend/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Savvylegend GitHub Profile Details" />
-  <img style="height: 210px; width: 38%;" src="https://raw.githubusercontent.com/Savvythelegend/Savvythelegend/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Savvythelegend GitHub Stats" />
+<a href="https://github.com/tsvlgd">
+  <img style="height: 260px; width: 58%;" src="https://raw.githubusercontent.com/tsvlgd/tsvlgd/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Savvylegend GitHub Profile Details" />
+  <img style="height: 210px; width: 38%;" src="https://raw.githubusercontent.com/tsvlgd/tsvlgd/main/profile-summary-card-output/github_dark/3-stats.svg" alt="tsvlgd GitHub Stats" />
 </a>
 </details> 
 
@@ -16,9 +16,9 @@
 <!--START_SECTION:activity-->
 1. ❌ Merged PR [#1](undefined) in [tsvlgd/game-of-life](https://github.com/tsvlgd/game-of-life)
 2. 💪 Opened PR [#1](undefined) in [tsvlgd/game-of-life](https://github.com/tsvlgd/game-of-life)
-3. ❌ Merged PR [#6](undefined) in [Savvythelegend/MLE](https://github.com/Savvythelegend/MLE)
-4. 💪 Opened PR [#6](undefined) in [Savvythelegend/MLE](https://github.com/Savvythelegend/MLE)
-5. ❌ Merged PR [#1](undefined) in [Savvythelegend/medical-data-extraction](https://github.com/Savvythelegend/medical-data-extraction)
+3. ❌ Merged PR [#6](undefined) in [tsvlgd/MLE](https://github.com/tsvlgd/MLE)
+4. 💪 Opened PR [#6](undefined) in [tsvlgd/MLE](https://github.com/tsvlgd/MLE)
+5. ❌ Merged PR [#1](undefined) in [tsvlgd/medical-data-extraction](https://github.com/tsvlgd/medical-data-extraction)
 <!--END_SECTION:activity-->
 
 </details>
@@ -99,7 +99,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 </details>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Savvythelegend/Savvythelegend/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
+  <img src="https://raw.githubusercontent.com/tsvlgd/tsvlgd/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
 </p>
 
 <br>
@@ -109,18 +109,18 @@ TeX                      1 repo              █░░░░░░░░░░�
 <!--- Footer Stats - Social Media Status and Contact -->
 <br>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Savvythelegend&color=green" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=tsvlgd&color=green" alt="Profile Views" />
   <a href="https://twitter.com/Mehfooj194108">
     <img src="https://img.shields.io/twitter/follow/Mehfooj194108?label=Follow%20Me&style=social" alt="Twitter Follow" />
   </a>
   <a href="https://discord.com/invite/savvyethelegend">
     <img src="https://img.shields.io/discord/1262681985885667348?label=Join%20Discord&logo=discord&logoColor=white&color=5865F2" alt="Join Discord" />
   </a>
-  <a href="https://github.com/Savvythelegend?tab=stars">
-    <img src="https://img.shields.io/github/stars/Savvythelegend?label=Star%20Gazers&style=social" alt="GitHub Stars" />
+  <a href="https://github.com/tsvlgd?tab=stars">
+    <img src="https://img.shields.io/github/stars/tsvlgd?label=Star%20Gazers&style=social" alt="GitHub Stars" />
   </a>
-  <a href="https://github.com/Savvythelegend">
-    <img src="https://img.shields.io/github/followers/Savvythelegend?style=social" alt="GitHub Followers" />
+  <a href="https://github.com/tsvlgd">
+    <img src="https://img.shields.io/github/followers/tsvlgd?style=social" alt="GitHub Followers" />
   </a>
 </p>
 
