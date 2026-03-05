@@ -104,10 +104,6 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 <br>
 
-### ✨ Hacktoberfest 2025 Badges  
-[![An image of @savvythelegend's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/savvythelegend)](https://holopin.io/@savvythelegend)
-<br><br>
-
 </div>
 
 <!--- Footer Stats - Social Media Status and Contact -->
