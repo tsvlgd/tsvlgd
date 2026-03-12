@@ -14,7 +14,7 @@
   <summary><b>🔄 GitHub Timeline</b></summary><br>
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#1](undefined) in [tsvlgd/game-of-life](https://github.com/tsvlgd/game-of-life)
+1. 🚀 Published release [LogIQ v0.1.0 – Initial Hybrid Log Classification System](https://github.com/tsvlgd/LogIQ/releases/tag/v1.0.0) in [tsvlgd/LogIQ](https://github.com/tsvlgd/LogIQ)
 2. 💪 Opened PR [#1](undefined) in [tsvlgd/game-of-life](https://github.com/tsvlgd/game-of-life)
 3. ❌ Merged PR [#6](undefined) in [tsvlgd/MLE](https://github.com/tsvlgd/MLE)
 4. 💪 Opened PR [#6](undefined) in [tsvlgd/MLE](https://github.com/tsvlgd/MLE)
