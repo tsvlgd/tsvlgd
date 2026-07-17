@@ -46,18 +46,18 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                583 commits         ███████░░░░░░░░░░░░░░░░░░   26.39 % 
-🌆 Daytime                611 commits         ███████░░░░░░░░░░░░░░░░░░   27.66 % 
-🌃 Evening                718 commits         ████████░░░░░░░░░░░░░░░░░   32.50 % 
+🌞 Morning                583 commits         ███████░░░░░░░░░░░░░░░░░░   26.38 % 
+🌆 Daytime                611 commits         ███████░░░░░░░░░░░░░░░░░░   27.65 % 
+🌃 Evening                719 commits         ████████░░░░░░░░░░░░░░░░░   32.53 % 
 🌙 Night                  297 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   170 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
-Tuesday                  623 commits         ███████░░░░░░░░░░░░░░░░░░   28.20 % 
+Monday                   171 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+Tuesday                  623 commits         ███████░░░░░░░░░░░░░░░░░░   28.19 % 
 Wednesday                350 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
-Thursday                 199 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+Thursday                 199 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
 Friday                   426 commits         █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
 Saturday                 247 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
 Sunday                   194 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
@@ -83,17 +83,17 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   18 repos            ████████████░░░░░░░░░░░░░   46.15 % 
-Jupyter Notebook         9 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-TypeScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Python                   17 repos            ███████████░░░░░░░░░░░░░░   44.74 % 
+Jupyter Notebook         9 repos             ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
+TypeScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 ```
 
 
 
 
- Last Updated on 16/07/2026 19:58:54 UTC
+ Last Updated on 17/07/2026 19:57:07 UTC
 <!--END_SECTION:waka-->
 
 </details>
