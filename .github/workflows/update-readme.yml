@@ -10,13 +10,11 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
     steps:
       - uses: actions/checkout@v4
-
       - uses: jamesgeorge007/github-activity-readme@master
         with:
           COMMIT_MSG: "⚡ Update recent activity"
-          FILE_PATH: "README.md"
+          TARGET_FILE: "README.md"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
