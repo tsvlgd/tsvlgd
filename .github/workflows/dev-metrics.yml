@@ -5,6 +5,10 @@ on:
     - cron: '30 18 * * *'  # every day at 12:00am IST
   workflow_dispatch:
 
+permissions:
+  contents: write
+  id-token: write
+
 jobs:
   update-readme:
     name: Update Readme with Metrics
