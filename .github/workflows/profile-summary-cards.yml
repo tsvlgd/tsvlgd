@@ -20,4 +20,4 @@ jobs:
           USERNAME: Savvythelegend
           UTC_OFFSET: 5.5
         env:
-          GITHUB_TOKEN: ${{ secrets.PROFILE_CARDS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
