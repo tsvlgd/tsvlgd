@@ -2,29 +2,24 @@ name: Waka Readme Stats
 
 on:
   schedule:
-    - cron: '30 18 * * *'  # every day at 12:00am IST
+    - cron: '30 18 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  update-readme:
-    name: Update Readme with Metrics
+  metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: lowlighter/metrics@latest
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_OS: "True"
-          SHOW_PROJECTS: "True"
-          SHOW_EDITORS: "True"
-          SHOW_LANGUAGE: "True"
-          SHOW_LINES_OF_CODE: "True"
-          SHOW_PROFILE_VIEWS: "False"
-          SHOW_COMMIT: "True"
-          SHOW_DAYS_OF_WEEK: "True"
-          SHOW_LANGUAGE_PER_REPO: "True"
-          SHOW_LOC_CHART: "False"
-          SHOW_SHORT_INFO: "True"
-          SHOW_TIMEZONE: "False"
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          PUSH_TOKEN: ${{ secrets.GH_TOKEN }}
+          filename: metrics.plugin.wakatime.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_days: 7
+          plugin_wakatime_limit: 5
+          plugin_wakatime_sections: languages, projects, editors
+          plugin_wakatime_user: current
