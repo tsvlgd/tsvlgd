@@ -14,11 +14,11 @@
   <summary><b>🔄 GitHub Timeline</b></summary><br>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#1](https://github.com/tsvlgd/llm-engine/pull/1) in [tsvlgd/llm-engine](https://github.com/tsvlgd/llm-engine)
-2. ℹ️ Assigned PR [#1](https://github.com/tsvlgd/llm-engine/pull/1) in [tsvlgd/llm-engine](https://github.com/tsvlgd/llm-engine)
-3. 🎉 Merged PR [#1](https://github.com/tsvlgd/llm-engine/pull/1) in [tsvlgd/llm-engine](https://github.com/tsvlgd/llm-engine)
-4. 💪 Opened PR [#1](https://github.com/tsvlgd/llm-engine/pull/1) in [tsvlgd/llm-engine](https://github.com/tsvlgd/llm-engine)
-5. ❌ Merged PR [#1](undefined) in [tsvlgd/medical-data-extraction](https://github.com/tsvlgd/medical-data-extraction)
+1. ℹ️ Labeled PR [#1](https://github.com/tsvlgd/veda-ai/pull/1) in [tsvlgd/veda-ai](https://github.com/tsvlgd/veda-ai)
+2. ℹ️ Assigned PR [#1](https://github.com/tsvlgd/veda-ai/pull/1) in [tsvlgd/veda-ai](https://github.com/tsvlgd/veda-ai)
+3. 🎉 Merged PR [#1](https://github.com/tsvlgd/veda-ai/pull/1) in [tsvlgd/veda-ai](https://github.com/tsvlgd/veda-ai)
+4. 💪 Opened PR [#1](https://github.com/tsvlgd/veda-ai/pull/1) in [tsvlgd/veda-ai](https://github.com/tsvlgd/veda-ai)
+5. ℹ️ Labeled PR [#1](https://github.com/tsvlgd/llm-engine/pull/1) in [tsvlgd/llm-engine](https://github.com/tsvlgd/llm-engine)
 <!--END_SECTION:activity-->
 
 </details>
