@@ -14,7 +14,7 @@
   <summary><b>🔄 GitHub Timeline</b></summary><br>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#2](https://github.com/tsvlgd/veda-ai/pull/2) in [tsvlgd/veda-ai](https://github.com/tsvlgd/veda-ai)
+1. ❌ Closed PR [#1](https://github.com/tsvlgd/testproof/pull/1) in [tsvlgd/testproof](https://github.com/tsvlgd/testproof)
 2. 🎉 Merged PR [#2](https://github.com/tsvlgd/veda-ai/pull/2) in [tsvlgd/veda-ai](https://github.com/tsvlgd/veda-ai)
 3. 💪 Opened PR [#2](https://github.com/tsvlgd/veda-ai/pull/2) in [tsvlgd/veda-ai](https://github.com/tsvlgd/veda-ai)
 4. ℹ️ Assigned PR [#2](https://github.com/tsvlgd/veda-ai/pull/2) in [tsvlgd/veda-ai](https://github.com/tsvlgd/veda-ai)
